@@ -1,0 +1,10 @@
+interface:
+  display_name: "Retention Hook Writer"
+  short_description: "Write high-retention scripts with stacked hooks"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#FF4D8D"
+  default_prompt: "Use $retention-hook-writer to rewrite this voiceover with stronger hooks and a natural spoken style."
+
+policy:
+  allow_implicit_invocation: true
